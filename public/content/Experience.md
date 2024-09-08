@@ -1,5 +1,5 @@
 ## BriteCore
-- *Full Stack Developer* | Sep'22 - Present
+- *Data Engineer* | Sep'22 - Present
 - ![BriteCore](../assets/britecore.png)
 - Tags: Full Stack Developer, All, AI, Backend Developer
 - Badges:
